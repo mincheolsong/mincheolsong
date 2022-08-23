@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=welcome&desc=MinCheol's GitHub Profile&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=welcome&desc=MinCheol's GitHub Profile)
 
