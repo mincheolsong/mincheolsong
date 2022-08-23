@@ -3,6 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MinCheol's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <p>
+    <a href="https://mincheolsong.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</p>
+
+<p>
     <Strong>✨Tech Stack✨</Strong><br>
     used as the main
 </p>
