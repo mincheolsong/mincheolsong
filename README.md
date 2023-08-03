@@ -5,7 +5,7 @@
 <p>
     <Strong>My Blog</Strong><br>
 </p>
-    <a href="https://mincheolsong.github.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://mcsong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 
 
