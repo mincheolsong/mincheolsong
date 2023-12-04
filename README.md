@@ -10,6 +10,13 @@
     <a href="https://mcsong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 
+<p>
+    <Strong>포트폴리오</Strong><br>
+</p>
+    <a href="https://mincheolsong.notion.site/92e34b91e8484cfd8f2c1f57875d9cf3?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-8A2BE2"/></a>
+</p>
+
+
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdalscjf05)](https://solved.ac/thdalscjf05/)  
 
