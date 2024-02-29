@@ -4,8 +4,9 @@
   
 
 <p> 
-
+<p>
     <a href="https://mcsong.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff5a28?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  </p>
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdalscjf05)](https://solved.ac/thdalscjf05/)  
